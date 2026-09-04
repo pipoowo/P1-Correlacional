@@ -78,7 +78,7 @@ hist(medias, main = "Medias (n = 500)", xlab = "Medias", col = "blue", border = 
 ## Ojo con esto!!!
 - **¿direccional o no direccional?** Una pregunta de investigación puede buscar cualquier diferencia entre dos grupos (no direccional) o anticipar que la diferencia ocurrirá en una dirección específica (direccional). Es importante darse cuenta en la formulación del problema, si se dice que la media de B es mayor o menor a la de A, es direccional. Si solo se menciona que son diferentes, la prueba es no direccional.
 - **¿Diferentes umbrales de significancia?** Por convención el nivel de confianza es del 95% ($p$=0.05). Sin embargo, en la investigación también se ocupan valores de 99% y 99.9%.
-- **¿Decisión final?** la conclusión tras la prueba de hipótesis debe ser sustantiva y relevante sociológicamente, por lo tanto, es fundamental escribir los resultados numéricos entre paréntesis para sostener las conclusiones y RECORDAR SIEMPRE que se está rechazando $H_0$ lo que da evidencia a la $H_a$; no estamos diciendo que algo es verdadero o causa de otra cosa. 
+- **¿Decisión final?** La conclusión tras la prueba de hipótesis debe ser sustantiva y relevante sociológicamente. Por lo tanto, es fundamental escribir los resultados numéricos entre paréntesis para sostener el argumento y RECORDAR SIEMPRE que se está rechazando la hipótesis nula ($H_0$), lo que otorga evidencia empírica a favor de la hipótesis alternativa ($H_1$). No estamos afirmando que algo es una verdad absoluta ni estableciendo causalidad, sino descartando que la diferencia observada se deba puramente al azar.
 
 ## Preguntas conceptuales/teóricas
 - ¿Qué significa la inferencia estadística?
