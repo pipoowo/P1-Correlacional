@@ -54,7 +54,7 @@ hist(medias, main = "Medias (n = 500)", xlab = "Medias", col = "blue", border = 
 
 - **Nivel de confianza:** equivale a (1-probabilidad de error). Por convención, se considera estadísticamente significativa a una probabilidad de error menor al 5%, que es un nivel de confianza del 95%. Es decir, si extraemos múltiples muestras, el 95% de las veces nuestro intervalo contendría el promedio o que podríamos rechazar $H_0$.
 
-- **Intervalo de confianza:** rango de un estadístico en la población con una muestra aleatoria (recordar que con 95% el puntaje Z es 1.96). En el caso del promedio se calcula: $$ \bar{x} \pm Z * \frac{\sigma}{\sqrt{N}} $$
+- **Intervalo de confianza:** rango de un estadístico en la población con una muestra aleatoria (recordar que con 95% el puntaje Z es 1.96). En el caso del promedio se calcula: $$ \bar{x} \pm SE * t $$
 
 - **Diferencia de medias:** procedimiento estadístico que permite contrastar empíricamente si los promedios de dos grupos independientes difieren significativamente en la población o se debe puramente al azar muestral.
 
