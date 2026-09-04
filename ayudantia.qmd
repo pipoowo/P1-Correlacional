@@ -85,7 +85,7 @@ hist(medias, main = "Medias (n = 500)", xlab = "Medias", col = "blue", border = 
 -  ¿Por qué en inferencia ocupamos el error estándar en vez de la distribución estándar?
 - Explica con tus palabras qué es un error tipo I y un error tipo II.
 - Explica con tus palabras qué es un intervalo de confianza.
-- Menciona el nivel de significancia que ocupa por convención en la estadística ¿a qué $valor p$ equivale?
+- Menciona el nivel de significancia que se ocupa por convención en la estadística ¿a qué $valor p$ equivale?
 - Qué quiere decir que se rechaza $H_0$ con una probabilidad de error de $p$ < 0.05.
 - Si decimos que el $valor p crítico$ equivale a 0.001, ¿de qué nivel de confianza estamos hablando?
 - Escribe una pregunta de investigación que se pueda responder con una prueba de diferencia de medias direccional y otra, no direccinal.
