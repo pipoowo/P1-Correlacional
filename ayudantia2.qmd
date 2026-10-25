@@ -141,7 +141,7 @@ sjPlot::tab_corr(data,
                  triangle = "lower")   
 
 sjPlot::tab_corr(data,
-                 na.deletion = "listwise", # espeficicamos tratamiento NA
+                 na.deletion = "listwise", # especificamos tratamiento NA
                  triangle = "lower")   
 ```
 
