@@ -61,9 +61,9 @@ Una matriz de correlación se conforma cuando se representa simultáneamente má
 ## Chi cuadrado
 Chi cuadrado permite rechazar o no la hipótesis nula de independencia (ausencia de asociación) entre variables categóricas (nominales u ordinales) utilizando tablas de contingencia. Dado que su magnitud depende fuertemente del tamaño de la muestra, no sirve para medir la fuerza de la asociación por sí solo. Para eso ocupamos medidas de tamaño del efecto:
 
-- Coeficiente Phi ($\phi$): Para variables binarias (tablas de 2x2). Va de -1 a 1 y se interpreta similar a Pearson en fuerza. Ojo: El sentido (positivo o negativo) dependerá arbitrariamente de cómo estén codificadas (0 y 1) las categorías en la tabla.
+- Coeficiente Phi ($\phi$): Para variables binarias (tablas de 2x2). Va de 0 a 1 y se interpreta similar a Pearson en fuerza.
 
-- V de Cramer ($V$): Para tablas mayores a 2x2. Va de 0 a 1 (solo indica fuerza, no dirección). Para interpretar si la fuerza es débil, moderada o fuerte, se utilizan los criterios de Cohen, los cuales varían según los grados de libertad de la tabla.
+- V de Cramer ($V$): Para tablas mayores a 2x2. Va de 0 a 1 (solo indica fuerza, no dirección). Para interpretar si la fuerza es débil, moderada o fuerte, se utilizan los criterios de Cohen.
 
 # Estadística bivariada en R
 Ocuparemos las siguientes librerías:
